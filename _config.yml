@@ -12,7 +12,7 @@ title                    : "Pari Latawa"
 title_separator          : "-"
 name                     : &name "Pari Latwa"
 description              : &description "personal description"
-url                      : https://platawa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://platawa2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "platawa/platawa2.github.io"
 
